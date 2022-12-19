@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-19T10:05:59" hostname="PYTHON-03" time="0.024">
+  <properties/>
+  <testcase name="testAdd()" classname="org.example.CalculatorTest" time="0.02"/>
+  <testcase name="testDiv()" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="testSub()" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="testMult()" classname="org.example.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
